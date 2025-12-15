@@ -95,13 +95,6 @@ AI (Claude) was used for:
 - Learning bash scripting best practices
 - Explaining security rationale for each requirement
 
-AI was NOT used for:
-- Copying complete configurations without understanding
-- Direct code generation without modification
-- Bypassing learning process
-
-All configurations were manually implemented and tested after understanding the underlying concepts through AI-assisted learning.
-
 ---
 
 **Author:** lemmerli  
