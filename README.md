@@ -98,5 +98,5 @@ AI (Claude) was used for:
 ---
 
 **Author:** lemmerli  
-**School:** 42 Heilbronn
+**School:** 42 Heilbronn  
 **Project:** Born2beRoot
