@@ -1,6 +1,6 @@
-# Born2beRoot
+*This project has been created as part of the 42 curriculum by lemmerli.*
 
-_This project has been created as part of the 42 curriculum by lemmerli._
+# Born2beRoot
 
 ## Description
 
@@ -38,7 +38,7 @@ Born2beRoot is a system administration project that introduces virtualization, s
 - Less enterprise-focused than Rocky
 - Older packages (due to stability focus)
 
-**vs Rocky Linux:**
+**Debian vs Rocky Linux:**
 - Rocky: Enterprise (RHEL-based), dnf/yum, SELinux
 - Debian: Community-driven, apt/dpkg, AppArmor
 
@@ -90,7 +90,7 @@ Born2beRoot is a system administration project that introduces virtualization, s
 
 ### AI Usage
 AI (Claude) was used for:
-- Understanding complex concepts (LVM, encryption, PAM)
+- Understanding complex concepts (LVM, encryption, Sudo)
 - Debugging configuration issues (GRUB, SSH, cron)
 - Learning bash scripting best practices
 - Explaining security rationale for each requirement
